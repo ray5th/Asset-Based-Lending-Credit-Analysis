@@ -1,0 +1,19 @@
+metric_key,metric_label,tag,2021,2022,2023,2024,2025
+revenue,Revenue,RevenueFromContractWithCustomerExcludingAssessedTax,18870510000,22095973000,23090610000,23486569000,24300141000
+pretax_income,Pretax income,IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest,1200346000,1572602000,1742348000,1175968000,52168000
+income_tax,Income tax expense,IncomeTaxExpenseBenefit,301556000,389901000,425824000,271892000,-13777000
+net_income,Net income,NetIncomeLoss,898790000,1182701000,1316524000,904076000,65945000
+cfo,Net cash provided by operating activities,NetCashProvidedByUsedInOperatingActivities,1258285000,1466971000,1435610000,1251251000,890762000
+capex,Capital expenditures,PaymentsToAcquirePropertyPlantAndEquipment,266136000,339632000,512675000,567339000,469838000
+interest_expense,Interest expense,InterestExpense,62150000,73887000,64469000,,
+interest_paid,Interest paid,InterestPaidNet,65732000,73368000,90405000,124977000,191334000
+depreciation_amortization,Depreciation and amortization,DepreciationAndAmortization,290971000,347819000,350529000,407978000,538023000
+cash,"Cash, cash equivalents and restricted cash",CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents,714701000,653463000,1102007000,479991000,477179000
+accounts_receivable,"Accounts, notes and loans receivable, net",AccountsNotesAndLoansReceivableNetCurrent,1797955000,2188868000,2223431000,2182856000,2370939000
+inventory,"Inventory, net",InventoryNet,3889919000,4441649000,4676686000,5514427000,6071996000
+current_assets,Current assets,AssetsCurrent,7756422000,8816739000,9605852000,9852584000,10564734000
+current_liabilities,Current liabilities,LiabilitiesCurrent,6581583000,7686110000,7827109000,8525380000,9787705000
+short_term_borrowings,Short-term borrowings,ShortTermBorrowings,0,0,0,41705000,943540000
+commercial_paper,Commercial paper,CommercialPaper,0,0,0,0,343000000
+long_term_debt_current,Current maturities of long-term debt,LongTermDebtCurrent,0,252029000,355298000,500000000,353788000
+long_term_debt_noncurrent,"Long-term debt, noncurrent",LongTermDebtNoncurrent,2409363000,3076794000,3550930000,3742640000,3498423000

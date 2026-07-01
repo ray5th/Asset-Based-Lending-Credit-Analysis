@@ -1,0 +1,1896 @@
+{
+  "company": {
+    "name": "GENUINE PARTS CO",
+    "ticker": "GPC",
+    "cik": "0000040987",
+    "sic": "5013",
+    "sic_description": "Wholesale-Motor Vehicle Supplies & New Parts",
+    "fiscal_year_end": "1231"
+  },
+  "as_of": {
+    "history_years": [
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "latest_10k": {
+      "form": "10-K",
+      "filing_date": "2026-02-20",
+      "report_date": "2025-12-31",
+      "accession": "0000040987-26-000003",
+      "primary_document": "gpc-20251231.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098726000003/gpc-20251231.htm"
+    },
+    "latest_10q": {
+      "form": "10-Q",
+      "filing_date": "2026-04-21",
+      "report_date": "2026-03-31",
+      "accession": "0000040987-26-000017",
+      "primary_document": "gpc-20260331.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098726000017/gpc-20260331.htm"
+    },
+    "companyfacts_url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000040987.json",
+    "submissions_url": "https://data.sec.gov/submissions/CIK0000040987.json",
+    "generated_from": "SEC companyfacts and submissions APIs"
+  },
+  "metrics": {
+    "revenue": {
+      "label": "Revenue",
+      "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+      "values": {
+        "2021": {
+          "value": 18870510000,
+          "source": {
+            "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+            "unit": "USD",
+            "accession": "0000040987-24-000024",
+            "filed": "2024-02-22",
+            "fy": 2023,
+            "fp": "FY",
+            "frame": "CY2021",
+            "start": "2021-01-01",
+            "end": "2021-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098724000024/gpc-20231231.htm",
+            "form": "10-K",
+            "filing_date": "2024-02-22",
+            "report_date": "2023-12-31",
+            "primary_document": "gpc-20231231.htm"
+          }
+        },
+        "2022": {
+          "value": 22095973000,
+          "source": {
+            "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+            "unit": "USD",
+            "accession": "0000040987-25-000026",
+            "filed": "2025-02-21",
+            "fy": 2024,
+            "fp": "FY",
+            "frame": "CY2022",
+            "start": "2022-01-01",
+            "end": "2022-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098725000026/gpc-20241231.htm",
+            "form": "10-K",
+            "filing_date": "2025-02-21",
+            "report_date": "2024-12-31",
+            "primary_document": "gpc-20241231.htm"
+          }
+        },
+        "2023": {
+          "value": 23090610000,
+          "source": {
+            "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+            "unit": "USD",
+            "accession": "0000040987-26-000003",
+            "filed": "2026-02-20",
+            "fy": 2025,
+            "fp": "FY",
+            "frame": "CY2023",
+            "start": "2023-01-01",
+            "end": "2023-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098726000003/gpc-20251231.htm",
+            "form": "10-K",
+            "filing_date": "2026-02-20",
+            "report_date": "2025-12-31",
+            "primary_document": "gpc-20251231.htm"
+          }
+        },
+        "2024": {
+          "value": 23486569000,
+          "source": {
+            "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+            "unit": "USD",
+            "accession": "0000040987-26-000003",
+            "filed": "2026-02-20",
+            "fy": 2025,
+            "fp": "FY",
+            "frame": "CY2024",
+            "start": "2024-01-01",
+            "end": "2024-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098726000003/gpc-20251231.htm",
+            "form": "10-K",
+            "filing_date": "2026-02-20",
+            "report_date": "2025-12-31",
+            "primary_document": "gpc-20251231.htm"
+          }
+        },
+        "2025": {
+          "value": 24300141000,
+          "source": {
+            "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+            "unit": "USD",
+            "accession": "0000040987-26-000003",
+            "filed": "2026-02-20",
+            "fy": 2025,
+            "fp": "FY",
+            "frame": "CY2025",
+            "start": "2025-01-01",
+            "end": "2025-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098726000003/gpc-20251231.htm",
+            "form": "10-K",
+            "filing_date": "2026-02-20",
+            "report_date": "2025-12-31",
+            "primary_document": "gpc-20251231.htm"
+          }
+        }
+      }
+    },
+    "pretax_income": {
+      "label": "Pretax income",
+      "tag": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+      "values": {
+        "2021": {
+          "value": 1200346000,
+          "source": {
+            "tag": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+            "unit": "USD",
+            "accession": "0000040987-24-000024",
+            "filed": "2024-02-22",
+            "fy": 2023,
+            "fp": "FY",
+            "frame": "CY2021",
+            "start": "2021-01-01",
+            "end": "2021-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098724000024/gpc-20231231.htm",
+            "form": "10-K",
+            "filing_date": "2024-02-22",
+            "report_date": "2023-12-31",
+            "primary_document": "gpc-20231231.htm"
+          }
+        },
+        "2022": {
+          "value": 1572602000,
+          "source": {
+            "tag": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+            "unit": "USD",
+            "accession": "0000040987-25-000026",
+            "filed": "2025-02-21",
+            "fy": 2024,
+            "fp": "FY",
+            "frame": "CY2022",
+            "start": "2022-01-01",
+            "end": "2022-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098725000026/gpc-20241231.htm",
+            "form": "10-K",
+            "filing_date": "2025-02-21",
+            "report_date": "2024-12-31",
+            "primary_document": "gpc-20241231.htm"
+          }
+        },
+        "2023": {
+          "value": 1742348000,
+          "source": {
+            "tag": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+            "unit": "USD",
+            "accession": "0000040987-26-000003",
+            "filed": "2026-02-20",
+            "fy": 2025,
+            "fp": "FY",
+            "frame": "CY2023",
+            "start": "2023-01-01",
+            "end": "2023-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098726000003/gpc-20251231.htm",
+            "form": "10-K",
+            "filing_date": "2026-02-20",
+            "report_date": "2025-12-31",
+            "primary_document": "gpc-20251231.htm"
+          }
+        },
+        "2024": {
+          "value": 1175968000,
+          "source": {
+            "tag": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+            "unit": "USD",
+            "accession": "0000040987-26-000003",
+            "filed": "2026-02-20",
+            "fy": 2025,
+            "fp": "FY",
+            "frame": "CY2024",
+            "start": "2024-01-01",
+            "end": "2024-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098726000003/gpc-20251231.htm",
+            "form": "10-K",
+            "filing_date": "2026-02-20",
+            "report_date": "2025-12-31",
+            "primary_document": "gpc-20251231.htm"
+          }
+        },
+        "2025": {
+          "value": 52168000,
+          "source": {
+            "tag": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+            "unit": "USD",
+            "accession": "0000040987-26-000003",
+            "filed": "2026-02-20",
+            "fy": 2025,
+            "fp": "FY",
+            "frame": "CY2025",
+            "start": "2025-01-01",
+            "end": "2025-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098726000003/gpc-20251231.htm",
+            "form": "10-K",
+            "filing_date": "2026-02-20",
+            "report_date": "2025-12-31",
+            "primary_document": "gpc-20251231.htm"
+          }
+        }
+      }
+    },
+    "income_tax": {
+      "label": "Income tax expense",
+      "tag": "IncomeTaxExpenseBenefit",
+      "values": {
+        "2021": {
+          "value": 301556000,
+          "source": {
+            "tag": "IncomeTaxExpenseBenefit",
+            "unit": "USD",
+            "accession": "0000040987-24-000024",
+            "filed": "2024-02-22",
+            "fy": 2023,
+            "fp": "FY",
+            "frame": "CY2021",
+            "start": "2021-01-01",
+            "end": "2021-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098724000024/gpc-20231231.htm",
+            "form": "10-K",
+            "filing_date": "2024-02-22",
+            "report_date": "2023-12-31",
+            "primary_document": "gpc-20231231.htm"
+          }
+        },
+        "2022": {
+          "value": 389901000,
+          "source": {
+            "tag": "IncomeTaxExpenseBenefit",
+            "unit": "USD",
+            "accession": "0000040987-25-000026",
+            "filed": "2025-02-21",
+            "fy": 2024,
+            "fp": "FY",
+            "frame": "CY2022",
+            "start": "2022-01-01",
+            "end": "2022-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098725000026/gpc-20241231.htm",
+            "form": "10-K",
+            "filing_date": "2025-02-21",
+            "report_date": "2024-12-31",
+            "primary_document": "gpc-20241231.htm"
+          }
+        },
+        "2023": {
+          "value": 425824000,
+          "source": {
+            "tag": "IncomeTaxExpenseBenefit",
+            "unit": "USD",
+            "accession": "0000040987-26-000003",
+            "filed": "2026-02-20",
+            "fy": 2025,
+            "fp": "FY",
+            "frame": "CY2023",
+            "start": "2023-01-01",
+            "end": "2023-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098726000003/gpc-20251231.htm",
+            "form": "10-K",
+            "filing_date": "2026-02-20",
+            "report_date": "2025-12-31",
+            "primary_document": "gpc-20251231.htm"
+          }
+        },
+        "2024": {
+          "value": 271892000,
+          "source": {
+            "tag": "IncomeTaxExpenseBenefit",
+            "unit": "USD",
+            "accession": "0000040987-26-000003",
+            "filed": "2026-02-20",
+            "fy": 2025,
+            "fp": "FY",
+            "frame": "CY2024",
+            "start": "2024-01-01",
+            "end": "2024-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098726000003/gpc-20251231.htm",
+            "form": "10-K",
+            "filing_date": "2026-02-20",
+            "report_date": "2025-12-31",
+            "primary_document": "gpc-20251231.htm"
+          }
+        },
+        "2025": {
+          "value": -13777000,
+          "source": {
+            "tag": "IncomeTaxExpenseBenefit",
+            "unit": "USD",
+            "accession": "0000040987-26-000003",
+            "filed": "2026-02-20",
+            "fy": 2025,
+            "fp": "FY",
+            "frame": "CY2025",
+            "start": "2025-01-01",
+            "end": "2025-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098726000003/gpc-20251231.htm",
+            "form": "10-K",
+            "filing_date": "2026-02-20",
+            "report_date": "2025-12-31",
+            "primary_document": "gpc-20251231.htm"
+          }
+        }
+      }
+    },
+    "net_income": {
+      "label": "Net income",
+      "tag": "NetIncomeLoss",
+      "values": {
+        "2021": {
+          "value": 898790000,
+          "source": {
+            "tag": "NetIncomeLoss",
+            "unit": "USD",
+            "accession": "0000040987-24-000024",
+            "filed": "2024-02-22",
+            "fy": 2023,
+            "fp": "FY",
+            "frame": "CY2021",
+            "start": "2021-01-01",
+            "end": "2021-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098724000024/gpc-20231231.htm",
+            "form": "10-K",
+            "filing_date": "2024-02-22",
+            "report_date": "2023-12-31",
+            "primary_document": "gpc-20231231.htm"
+          }
+        },
+        "2022": {
+          "value": 1182701000,
+          "source": {
+            "tag": "NetIncomeLoss",
+            "unit": "USD",
+            "accession": "0000040987-25-000026",
+            "filed": "2025-02-21",
+            "fy": 2024,
+            "fp": "FY",
+            "frame": "CY2022",
+            "start": "2022-01-01",
+            "end": "2022-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098725000026/gpc-20241231.htm",
+            "form": "10-K",
+            "filing_date": "2025-02-21",
+            "report_date": "2024-12-31",
+            "primary_document": "gpc-20241231.htm"
+          }
+        },
+        "2023": {
+          "value": 1316524000,
+          "source": {
+            "tag": "NetIncomeLoss",
+            "unit": "USD",
+            "accession": "0000040987-26-000003",
+            "filed": "2026-02-20",
+            "fy": 2025,
+            "fp": "FY",
+            "frame": "CY2023",
+            "start": "2023-01-01",
+            "end": "2023-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098726000003/gpc-20251231.htm",
+            "form": "10-K",
+            "filing_date": "2026-02-20",
+            "report_date": "2025-12-31",
+            "primary_document": "gpc-20251231.htm"
+          }
+        },
+        "2024": {
+          "value": 904076000,
+          "source": {
+            "tag": "NetIncomeLoss",
+            "unit": "USD",
+            "accession": "0000040987-26-000003",
+            "filed": "2026-02-20",
+            "fy": 2025,
+            "fp": "FY",
+            "frame": "CY2024",
+            "start": "2024-01-01",
+            "end": "2024-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098726000003/gpc-20251231.htm",
+            "form": "10-K",
+            "filing_date": "2026-02-20",
+            "report_date": "2025-12-31",
+            "primary_document": "gpc-20251231.htm"
+          }
+        },
+        "2025": {
+          "value": 65945000,
+          "source": {
+            "tag": "NetIncomeLoss",
+            "unit": "USD",
+            "accession": "0000040987-26-000003",
+            "filed": "2026-02-20",
+            "fy": 2025,
+            "fp": "FY",
+            "frame": "CY2025",
+            "start": "2025-01-01",
+            "end": "2025-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098726000003/gpc-20251231.htm",
+            "form": "10-K",
+            "filing_date": "2026-02-20",
+            "report_date": "2025-12-31",
+            "primary_document": "gpc-20251231.htm"
+          }
+        }
+      }
+    },
+    "cfo": {
+      "label": "Net cash provided by operating activities",
+      "tag": "NetCashProvidedByUsedInOperatingActivities",
+      "values": {
+        "2021": {
+          "value": 1258285000,
+          "source": {
+            "tag": "NetCashProvidedByUsedInOperatingActivities",
+            "unit": "USD",
+            "accession": "0000040987-24-000024",
+            "filed": "2024-02-22",
+            "fy": 2023,
+            "fp": "FY",
+            "frame": "CY2021",
+            "start": "2021-01-01",
+            "end": "2021-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098724000024/gpc-20231231.htm",
+            "form": "10-K",
+            "filing_date": "2024-02-22",
+            "report_date": "2023-12-31",
+            "primary_document": "gpc-20231231.htm"
+          }
+        },
+        "2022": {
+          "value": 1466971000,
+          "source": {
+            "tag": "NetCashProvidedByUsedInOperatingActivities",
+            "unit": "USD",
+            "accession": "0000040987-25-000026",
+            "filed": "2025-02-21",
+            "fy": 2024,
+            "fp": "FY",
+            "frame": "CY2022",
+            "start": "2022-01-01",
+            "end": "2022-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098725000026/gpc-20241231.htm",
+            "form": "10-K",
+            "filing_date": "2025-02-21",
+            "report_date": "2024-12-31",
+            "primary_document": "gpc-20241231.htm"
+          }
+        },
+        "2023": {
+          "value": 1435610000,
+          "source": {
+            "tag": "NetCashProvidedByUsedInOperatingActivities",
+            "unit": "USD",
+            "accession": "0000040987-26-000003",
+            "filed": "2026-02-20",
+            "fy": 2025,
+            "fp": "FY",
+            "frame": "CY2023",
+            "start": "2023-01-01",
+            "end": "2023-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098726000003/gpc-20251231.htm",
+            "form": "10-K",
+            "filing_date": "2026-02-20",
+            "report_date": "2025-12-31",
+            "primary_document": "gpc-20251231.htm"
+          }
+        },
+        "2024": {
+          "value": 1251251000,
+          "source": {
+            "tag": "NetCashProvidedByUsedInOperatingActivities",
+            "unit": "USD",
+            "accession": "0000040987-26-000003",
+            "filed": "2026-02-20",
+            "fy": 2025,
+            "fp": "FY",
+            "frame": "CY2024",
+            "start": "2024-01-01",
+            "end": "2024-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098726000003/gpc-20251231.htm",
+            "form": "10-K",
+            "filing_date": "2026-02-20",
+            "report_date": "2025-12-31",
+            "primary_document": "gpc-20251231.htm"
+          }
+        },
+        "2025": {
+          "value": 890762000,
+          "source": {
+            "tag": "NetCashProvidedByUsedInOperatingActivities",
+            "unit": "USD",
+            "accession": "0000040987-26-000003",
+            "filed": "2026-02-20",
+            "fy": 2025,
+            "fp": "FY",
+            "frame": "CY2025",
+            "start": "2025-01-01",
+            "end": "2025-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098726000003/gpc-20251231.htm",
+            "form": "10-K",
+            "filing_date": "2026-02-20",
+            "report_date": "2025-12-31",
+            "primary_document": "gpc-20251231.htm"
+          }
+        }
+      }
+    },
+    "capex": {
+      "label": "Capital expenditures",
+      "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
+      "values": {
+        "2021": {
+          "value": 266136000,
+          "source": {
+            "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
+            "unit": "USD",
+            "accession": "0000040987-24-000024",
+            "filed": "2024-02-22",
+            "fy": 2023,
+            "fp": "FY",
+            "frame": "CY2021",
+            "start": "2021-01-01",
+            "end": "2021-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098724000024/gpc-20231231.htm",
+            "form": "10-K",
+            "filing_date": "2024-02-22",
+            "report_date": "2023-12-31",
+            "primary_document": "gpc-20231231.htm"
+          }
+        },
+        "2022": {
+          "value": 339632000,
+          "source": {
+            "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
+            "unit": "USD",
+            "accession": "0000040987-25-000026",
+            "filed": "2025-02-21",
+            "fy": 2024,
+            "fp": "FY",
+            "frame": "CY2022",
+            "start": "2022-01-01",
+            "end": "2022-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098725000026/gpc-20241231.htm",
+            "form": "10-K",
+            "filing_date": "2025-02-21",
+            "report_date": "2024-12-31",
+            "primary_document": "gpc-20241231.htm"
+          }
+        },
+        "2023": {
+          "value": 512675000,
+          "source": {
+            "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
+            "unit": "USD",
+            "accession": "0000040987-26-000003",
+            "filed": "2026-02-20",
+            "fy": 2025,
+            "fp": "FY",
+            "frame": "CY2023",
+            "start": "2023-01-01",
+            "end": "2023-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098726000003/gpc-20251231.htm",
+            "form": "10-K",
+            "filing_date": "2026-02-20",
+            "report_date": "2025-12-31",
+            "primary_document": "gpc-20251231.htm"
+          }
+        },
+        "2024": {
+          "value": 567339000,
+          "source": {
+            "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
+            "unit": "USD",
+            "accession": "0000040987-26-000003",
+            "filed": "2026-02-20",
+            "fy": 2025,
+            "fp": "FY",
+            "frame": "CY2024",
+            "start": "2024-01-01",
+            "end": "2024-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098726000003/gpc-20251231.htm",
+            "form": "10-K",
+            "filing_date": "2026-02-20",
+            "report_date": "2025-12-31",
+            "primary_document": "gpc-20251231.htm"
+          }
+        },
+        "2025": {
+          "value": 469838000,
+          "source": {
+            "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
+            "unit": "USD",
+            "accession": "0000040987-26-000003",
+            "filed": "2026-02-20",
+            "fy": 2025,
+            "fp": "FY",
+            "frame": "CY2025",
+            "start": "2025-01-01",
+            "end": "2025-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098726000003/gpc-20251231.htm",
+            "form": "10-K",
+            "filing_date": "2026-02-20",
+            "report_date": "2025-12-31",
+            "primary_document": "gpc-20251231.htm"
+          }
+        }
+      }
+    },
+    "interest_expense": {
+      "label": "Interest expense",
+      "tag": "InterestExpense",
+      "values": {
+        "2021": {
+          "value": 62150000,
+          "source": {
+            "tag": "InterestExpense",
+            "unit": "USD",
+            "accession": "0000040987-24-000024",
+            "filed": "2024-02-22",
+            "fy": 2023,
+            "fp": "FY",
+            "frame": "CY2021",
+            "start": "2021-01-01",
+            "end": "2021-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098724000024/gpc-20231231.htm",
+            "form": "10-K",
+            "filing_date": "2024-02-22",
+            "report_date": "2023-12-31",
+            "primary_document": "gpc-20231231.htm"
+          }
+        },
+        "2022": {
+          "value": 73887000,
+          "source": {
+            "tag": "InterestExpense",
+            "unit": "USD",
+            "accession": "0000040987-24-000024",
+            "filed": "2024-02-22",
+            "fy": 2023,
+            "fp": "FY",
+            "frame": "CY2022",
+            "start": "2022-01-01",
+            "end": "2022-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098724000024/gpc-20231231.htm",
+            "form": "10-K",
+            "filing_date": "2024-02-22",
+            "report_date": "2023-12-31",
+            "primary_document": "gpc-20231231.htm"
+          }
+        },
+        "2023": {
+          "value": 64469000,
+          "source": {
+            "tag": "InterestExpense",
+            "unit": "USD",
+            "accession": "0000040987-24-000024",
+            "filed": "2024-02-22",
+            "fy": 2023,
+            "fp": "FY",
+            "frame": "CY2023",
+            "start": "2023-01-01",
+            "end": "2023-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098724000024/gpc-20231231.htm",
+            "form": "10-K",
+            "filing_date": "2024-02-22",
+            "report_date": "2023-12-31",
+            "primary_document": "gpc-20231231.htm"
+          }
+        },
+        "2024": {
+          "value": null,
+          "source": null
+        },
+        "2025": {
+          "value": null,
+          "source": null
+        }
+      }
+    },
+    "interest_paid": {
+      "label": "Interest paid",
+      "tag": "InterestPaidNet",
+      "values": {
+        "2021": {
+          "value": 65732000,
+          "source": {
+            "tag": "InterestPaidNet",
+            "unit": "USD",
+            "accession": "0000040987-24-000024",
+            "filed": "2024-02-22",
+            "fy": 2023,
+            "fp": "FY",
+            "frame": "CY2021",
+            "start": "2021-01-01",
+            "end": "2021-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098724000024/gpc-20231231.htm",
+            "form": "10-K",
+            "filing_date": "2024-02-22",
+            "report_date": "2023-12-31",
+            "primary_document": "gpc-20231231.htm"
+          }
+        },
+        "2022": {
+          "value": 73368000,
+          "source": {
+            "tag": "InterestPaidNet",
+            "unit": "USD",
+            "accession": "0000040987-25-000026",
+            "filed": "2025-02-21",
+            "fy": 2024,
+            "fp": "FY",
+            "frame": "CY2022",
+            "start": "2022-01-01",
+            "end": "2022-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098725000026/gpc-20241231.htm",
+            "form": "10-K",
+            "filing_date": "2025-02-21",
+            "report_date": "2024-12-31",
+            "primary_document": "gpc-20241231.htm"
+          }
+        },
+        "2023": {
+          "value": 90405000,
+          "source": {
+            "tag": "InterestPaidNet",
+            "unit": "USD",
+            "accession": "0000040987-26-000003",
+            "filed": "2026-02-20",
+            "fy": 2025,
+            "fp": "FY",
+            "frame": "CY2023",
+            "start": "2023-01-01",
+            "end": "2023-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098726000003/gpc-20251231.htm",
+            "form": "10-K",
+            "filing_date": "2026-02-20",
+            "report_date": "2025-12-31",
+            "primary_document": "gpc-20251231.htm"
+          }
+        },
+        "2024": {
+          "value": 124977000,
+          "source": {
+            "tag": "InterestPaidNet",
+            "unit": "USD",
+            "accession": "0000040987-26-000003",
+            "filed": "2026-02-20",
+            "fy": 2025,
+            "fp": "FY",
+            "frame": "CY2024",
+            "start": "2024-01-01",
+            "end": "2024-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098726000003/gpc-20251231.htm",
+            "form": "10-K",
+            "filing_date": "2026-02-20",
+            "report_date": "2025-12-31",
+            "primary_document": "gpc-20251231.htm"
+          }
+        },
+        "2025": {
+          "value": 191334000,
+          "source": {
+            "tag": "InterestPaidNet",
+            "unit": "USD",
+            "accession": "0000040987-26-000003",
+            "filed": "2026-02-20",
+            "fy": 2025,
+            "fp": "FY",
+            "frame": "CY2025",
+            "start": "2025-01-01",
+            "end": "2025-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098726000003/gpc-20251231.htm",
+            "form": "10-K",
+            "filing_date": "2026-02-20",
+            "report_date": "2025-12-31",
+            "primary_document": "gpc-20251231.htm"
+          }
+        }
+      }
+    },
+    "depreciation_amortization": {
+      "label": "Depreciation and amortization",
+      "tag": "DepreciationAndAmortization",
+      "values": {
+        "2021": {
+          "value": 290971000,
+          "source": {
+            "tag": "DepreciationAndAmortization",
+            "unit": "USD",
+            "accession": "0000040987-24-000024",
+            "filed": "2024-02-22",
+            "fy": 2023,
+            "fp": "FY",
+            "frame": "CY2021",
+            "start": "2021-01-01",
+            "end": "2021-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098724000024/gpc-20231231.htm",
+            "form": "10-K",
+            "filing_date": "2024-02-22",
+            "report_date": "2023-12-31",
+            "primary_document": "gpc-20231231.htm"
+          }
+        },
+        "2022": {
+          "value": 347819000,
+          "source": {
+            "tag": "DepreciationAndAmortization",
+            "unit": "USD",
+            "accession": "0000040987-25-000026",
+            "filed": "2025-02-21",
+            "fy": 2024,
+            "fp": "FY",
+            "frame": "CY2022",
+            "start": "2022-01-01",
+            "end": "2022-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098725000026/gpc-20241231.htm",
+            "form": "10-K",
+            "filing_date": "2025-02-21",
+            "report_date": "2024-12-31",
+            "primary_document": "gpc-20241231.htm"
+          }
+        },
+        "2023": {
+          "value": 350529000,
+          "source": {
+            "tag": "DepreciationAndAmortization",
+            "unit": "USD",
+            "accession": "0000040987-26-000003",
+            "filed": "2026-02-20",
+            "fy": 2025,
+            "fp": "FY",
+            "frame": "CY2023",
+            "start": "2023-01-01",
+            "end": "2023-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098726000003/gpc-20251231.htm",
+            "form": "10-K",
+            "filing_date": "2026-02-20",
+            "report_date": "2025-12-31",
+            "primary_document": "gpc-20251231.htm"
+          }
+        },
+        "2024": {
+          "value": 407978000,
+          "source": {
+            "tag": "DepreciationAndAmortization",
+            "unit": "USD",
+            "accession": "0000040987-26-000003",
+            "filed": "2026-02-20",
+            "fy": 2025,
+            "fp": "FY",
+            "frame": "CY2024",
+            "start": "2024-01-01",
+            "end": "2024-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098726000003/gpc-20251231.htm",
+            "form": "10-K",
+            "filing_date": "2026-02-20",
+            "report_date": "2025-12-31",
+            "primary_document": "gpc-20251231.htm"
+          }
+        },
+        "2025": {
+          "value": 538023000,
+          "source": {
+            "tag": "DepreciationAndAmortization",
+            "unit": "USD",
+            "accession": "0000040987-26-000003",
+            "filed": "2026-02-20",
+            "fy": 2025,
+            "fp": "FY",
+            "frame": "CY2025",
+            "start": "2025-01-01",
+            "end": "2025-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098726000003/gpc-20251231.htm",
+            "form": "10-K",
+            "filing_date": "2026-02-20",
+            "report_date": "2025-12-31",
+            "primary_document": "gpc-20251231.htm"
+          }
+        }
+      }
+    },
+    "cash": {
+      "label": "Cash, cash equivalents and restricted cash",
+      "tag": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+      "values": {
+        "2021": {
+          "value": 714701000,
+          "source": {
+            "tag": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+            "unit": "USD",
+            "accession": "0000040987-25-000026",
+            "filed": "2025-02-21",
+            "fy": 2024,
+            "fp": "FY",
+            "frame": "CY2021Q4I",
+            "start": null,
+            "end": "2021-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098725000026/gpc-20241231.htm",
+            "form": "10-K",
+            "filing_date": "2025-02-21",
+            "report_date": "2024-12-31",
+            "primary_document": "gpc-20241231.htm"
+          }
+        },
+        "2022": {
+          "value": 653463000,
+          "source": {
+            "tag": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+            "unit": "USD",
+            "accession": "0000040987-26-000003",
+            "filed": "2026-02-20",
+            "fy": 2025,
+            "fp": "FY",
+            "frame": "CY2022Q4I",
+            "start": null,
+            "end": "2022-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098726000003/gpc-20251231.htm",
+            "form": "10-K",
+            "filing_date": "2026-02-20",
+            "report_date": "2025-12-31",
+            "primary_document": "gpc-20251231.htm"
+          }
+        },
+        "2023": {
+          "value": 1102007000,
+          "source": {
+            "tag": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+            "unit": "USD",
+            "accession": "0000040987-26-000003",
+            "filed": "2026-02-20",
+            "fy": 2025,
+            "fp": "FY",
+            "frame": "CY2023Q4I",
+            "start": null,
+            "end": "2023-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098726000003/gpc-20251231.htm",
+            "form": "10-K",
+            "filing_date": "2026-02-20",
+            "report_date": "2025-12-31",
+            "primary_document": "gpc-20251231.htm"
+          }
+        },
+        "2024": {
+          "value": 479991000,
+          "source": {
+            "tag": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+            "unit": "USD",
+            "accession": "0000040987-26-000003",
+            "filed": "2026-02-20",
+            "fy": 2025,
+            "fp": "FY",
+            "frame": null,
+            "start": null,
+            "end": "2024-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098726000003/gpc-20251231.htm",
+            "form": "10-K",
+            "filing_date": "2026-02-20",
+            "report_date": "2025-12-31",
+            "primary_document": "gpc-20251231.htm"
+          }
+        },
+        "2025": {
+          "value": 477179000,
+          "source": {
+            "tag": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+            "unit": "USD",
+            "accession": "0000040987-26-000003",
+            "filed": "2026-02-20",
+            "fy": 2025,
+            "fp": "FY",
+            "frame": null,
+            "start": null,
+            "end": "2025-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098726000003/gpc-20251231.htm",
+            "form": "10-K",
+            "filing_date": "2026-02-20",
+            "report_date": "2025-12-31",
+            "primary_document": "gpc-20251231.htm"
+          }
+        }
+      }
+    },
+    "accounts_receivable": {
+      "label": "Accounts, notes and loans receivable, net",
+      "tag": "AccountsNotesAndLoansReceivableNetCurrent",
+      "values": {
+        "2021": {
+          "value": 1797955000,
+          "source": {
+            "tag": "AccountsNotesAndLoansReceivableNetCurrent",
+            "unit": "USD",
+            "accession": "0000040987-23-000008",
+            "filed": "2023-02-23",
+            "fy": 2022,
+            "fp": "FY",
+            "frame": "CY2021Q4I",
+            "start": null,
+            "end": "2021-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098723000008/gpc-20221231.htm",
+            "form": "10-K",
+            "filing_date": "2023-02-23",
+            "report_date": "2022-12-31",
+            "primary_document": "gpc-20221231.htm"
+          }
+        },
+        "2022": {
+          "value": 2188868000,
+          "source": {
+            "tag": "AccountsNotesAndLoansReceivableNetCurrent",
+            "unit": "USD",
+            "accession": "0000040987-24-000024",
+            "filed": "2024-02-22",
+            "fy": 2023,
+            "fp": "FY",
+            "frame": "CY2022Q4I",
+            "start": null,
+            "end": "2022-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098724000024/gpc-20231231.htm",
+            "form": "10-K",
+            "filing_date": "2024-02-22",
+            "report_date": "2023-12-31",
+            "primary_document": "gpc-20231231.htm"
+          }
+        },
+        "2023": {
+          "value": 2223431000,
+          "source": {
+            "tag": "AccountsNotesAndLoansReceivableNetCurrent",
+            "unit": "USD",
+            "accession": "0000040987-25-000026",
+            "filed": "2025-02-21",
+            "fy": 2024,
+            "fp": "FY",
+            "frame": "CY2023Q4I",
+            "start": null,
+            "end": "2023-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098725000026/gpc-20241231.htm",
+            "form": "10-K",
+            "filing_date": "2025-02-21",
+            "report_date": "2024-12-31",
+            "primary_document": "gpc-20241231.htm"
+          }
+        },
+        "2024": {
+          "value": 2182856000,
+          "source": {
+            "tag": "AccountsNotesAndLoansReceivableNetCurrent",
+            "unit": "USD",
+            "accession": "0000040987-26-000003",
+            "filed": "2026-02-20",
+            "fy": 2025,
+            "fp": "FY",
+            "frame": "CY2024Q4I",
+            "start": null,
+            "end": "2024-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098726000003/gpc-20251231.htm",
+            "form": "10-K",
+            "filing_date": "2026-02-20",
+            "report_date": "2025-12-31",
+            "primary_document": "gpc-20251231.htm"
+          }
+        },
+        "2025": {
+          "value": 2370939000,
+          "source": {
+            "tag": "AccountsNotesAndLoansReceivableNetCurrent",
+            "unit": "USD",
+            "accession": "0000040987-26-000003",
+            "filed": "2026-02-20",
+            "fy": 2025,
+            "fp": "FY",
+            "frame": null,
+            "start": null,
+            "end": "2025-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098726000003/gpc-20251231.htm",
+            "form": "10-K",
+            "filing_date": "2026-02-20",
+            "report_date": "2025-12-31",
+            "primary_document": "gpc-20251231.htm"
+          }
+        }
+      }
+    },
+    "inventory": {
+      "label": "Inventory, net",
+      "tag": "InventoryNet",
+      "values": {
+        "2021": {
+          "value": 3889919000,
+          "source": {
+            "tag": "InventoryNet",
+            "unit": "USD",
+            "accession": "0000040987-23-000008",
+            "filed": "2023-02-23",
+            "fy": 2022,
+            "fp": "FY",
+            "frame": "CY2021Q4I",
+            "start": null,
+            "end": "2021-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098723000008/gpc-20221231.htm",
+            "form": "10-K",
+            "filing_date": "2023-02-23",
+            "report_date": "2022-12-31",
+            "primary_document": "gpc-20221231.htm"
+          }
+        },
+        "2022": {
+          "value": 4441649000,
+          "source": {
+            "tag": "InventoryNet",
+            "unit": "USD",
+            "accession": "0000040987-24-000024",
+            "filed": "2024-02-22",
+            "fy": 2023,
+            "fp": "FY",
+            "frame": "CY2022Q4I",
+            "start": null,
+            "end": "2022-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098724000024/gpc-20231231.htm",
+            "form": "10-K",
+            "filing_date": "2024-02-22",
+            "report_date": "2023-12-31",
+            "primary_document": "gpc-20231231.htm"
+          }
+        },
+        "2023": {
+          "value": 4676686000,
+          "source": {
+            "tag": "InventoryNet",
+            "unit": "USD",
+            "accession": "0000040987-25-000026",
+            "filed": "2025-02-21",
+            "fy": 2024,
+            "fp": "FY",
+            "frame": "CY2023Q4I",
+            "start": null,
+            "end": "2023-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098725000026/gpc-20241231.htm",
+            "form": "10-K",
+            "filing_date": "2025-02-21",
+            "report_date": "2024-12-31",
+            "primary_document": "gpc-20241231.htm"
+          }
+        },
+        "2024": {
+          "value": 5514427000,
+          "source": {
+            "tag": "InventoryNet",
+            "unit": "USD",
+            "accession": "0000040987-26-000003",
+            "filed": "2026-02-20",
+            "fy": 2025,
+            "fp": "FY",
+            "frame": "CY2024Q4I",
+            "start": null,
+            "end": "2024-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098726000003/gpc-20251231.htm",
+            "form": "10-K",
+            "filing_date": "2026-02-20",
+            "report_date": "2025-12-31",
+            "primary_document": "gpc-20251231.htm"
+          }
+        },
+        "2025": {
+          "value": 6071996000,
+          "source": {
+            "tag": "InventoryNet",
+            "unit": "USD",
+            "accession": "0000040987-26-000003",
+            "filed": "2026-02-20",
+            "fy": 2025,
+            "fp": "FY",
+            "frame": null,
+            "start": null,
+            "end": "2025-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098726000003/gpc-20251231.htm",
+            "form": "10-K",
+            "filing_date": "2026-02-20",
+            "report_date": "2025-12-31",
+            "primary_document": "gpc-20251231.htm"
+          }
+        }
+      }
+    },
+    "current_assets": {
+      "label": "Current assets",
+      "tag": "AssetsCurrent",
+      "values": {
+        "2021": {
+          "value": 7756422000,
+          "source": {
+            "tag": "AssetsCurrent",
+            "unit": "USD",
+            "accession": "0000040987-23-000008",
+            "filed": "2023-02-23",
+            "fy": 2022,
+            "fp": "FY",
+            "frame": "CY2021Q4I",
+            "start": null,
+            "end": "2021-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098723000008/gpc-20221231.htm",
+            "form": "10-K",
+            "filing_date": "2023-02-23",
+            "report_date": "2022-12-31",
+            "primary_document": "gpc-20221231.htm"
+          }
+        },
+        "2022": {
+          "value": 8816739000,
+          "source": {
+            "tag": "AssetsCurrent",
+            "unit": "USD",
+            "accession": "0000040987-24-000024",
+            "filed": "2024-02-22",
+            "fy": 2023,
+            "fp": "FY",
+            "frame": "CY2022Q4I",
+            "start": null,
+            "end": "2022-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098724000024/gpc-20231231.htm",
+            "form": "10-K",
+            "filing_date": "2024-02-22",
+            "report_date": "2023-12-31",
+            "primary_document": "gpc-20231231.htm"
+          }
+        },
+        "2023": {
+          "value": 9605852000,
+          "source": {
+            "tag": "AssetsCurrent",
+            "unit": "USD",
+            "accession": "0000040987-25-000026",
+            "filed": "2025-02-21",
+            "fy": 2024,
+            "fp": "FY",
+            "frame": "CY2023Q4I",
+            "start": null,
+            "end": "2023-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098725000026/gpc-20241231.htm",
+            "form": "10-K",
+            "filing_date": "2025-02-21",
+            "report_date": "2024-12-31",
+            "primary_document": "gpc-20241231.htm"
+          }
+        },
+        "2024": {
+          "value": 9852584000,
+          "source": {
+            "tag": "AssetsCurrent",
+            "unit": "USD",
+            "accession": "0000040987-26-000003",
+            "filed": "2026-02-20",
+            "fy": 2025,
+            "fp": "FY",
+            "frame": "CY2024Q4I",
+            "start": null,
+            "end": "2024-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098726000003/gpc-20251231.htm",
+            "form": "10-K",
+            "filing_date": "2026-02-20",
+            "report_date": "2025-12-31",
+            "primary_document": "gpc-20251231.htm"
+          }
+        },
+        "2025": {
+          "value": 10564734000,
+          "source": {
+            "tag": "AssetsCurrent",
+            "unit": "USD",
+            "accession": "0000040987-26-000003",
+            "filed": "2026-02-20",
+            "fy": 2025,
+            "fp": "FY",
+            "frame": null,
+            "start": null,
+            "end": "2025-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098726000003/gpc-20251231.htm",
+            "form": "10-K",
+            "filing_date": "2026-02-20",
+            "report_date": "2025-12-31",
+            "primary_document": "gpc-20251231.htm"
+          }
+        }
+      }
+    },
+    "current_liabilities": {
+      "label": "Current liabilities",
+      "tag": "LiabilitiesCurrent",
+      "values": {
+        "2021": {
+          "value": 6581583000,
+          "source": {
+            "tag": "LiabilitiesCurrent",
+            "unit": "USD",
+            "accession": "0000040987-23-000008",
+            "filed": "2023-02-23",
+            "fy": 2022,
+            "fp": "FY",
+            "frame": "CY2021Q4I",
+            "start": null,
+            "end": "2021-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098723000008/gpc-20221231.htm",
+            "form": "10-K",
+            "filing_date": "2023-02-23",
+            "report_date": "2022-12-31",
+            "primary_document": "gpc-20221231.htm"
+          }
+        },
+        "2022": {
+          "value": 7686110000,
+          "source": {
+            "tag": "LiabilitiesCurrent",
+            "unit": "USD",
+            "accession": "0000040987-24-000024",
+            "filed": "2024-02-22",
+            "fy": 2023,
+            "fp": "FY",
+            "frame": "CY2022Q4I",
+            "start": null,
+            "end": "2022-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098724000024/gpc-20231231.htm",
+            "form": "10-K",
+            "filing_date": "2024-02-22",
+            "report_date": "2023-12-31",
+            "primary_document": "gpc-20231231.htm"
+          }
+        },
+        "2023": {
+          "value": 7827109000,
+          "source": {
+            "tag": "LiabilitiesCurrent",
+            "unit": "USD",
+            "accession": "0000040987-25-000026",
+            "filed": "2025-02-21",
+            "fy": 2024,
+            "fp": "FY",
+            "frame": "CY2023Q4I",
+            "start": null,
+            "end": "2023-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098725000026/gpc-20241231.htm",
+            "form": "10-K",
+            "filing_date": "2025-02-21",
+            "report_date": "2024-12-31",
+            "primary_document": "gpc-20241231.htm"
+          }
+        },
+        "2024": {
+          "value": 8525380000,
+          "source": {
+            "tag": "LiabilitiesCurrent",
+            "unit": "USD",
+            "accession": "0000040987-26-000003",
+            "filed": "2026-02-20",
+            "fy": 2025,
+            "fp": "FY",
+            "frame": "CY2024Q4I",
+            "start": null,
+            "end": "2024-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098726000003/gpc-20251231.htm",
+            "form": "10-K",
+            "filing_date": "2026-02-20",
+            "report_date": "2025-12-31",
+            "primary_document": "gpc-20251231.htm"
+          }
+        },
+        "2025": {
+          "value": 9787705000,
+          "source": {
+            "tag": "LiabilitiesCurrent",
+            "unit": "USD",
+            "accession": "0000040987-26-000003",
+            "filed": "2026-02-20",
+            "fy": 2025,
+            "fp": "FY",
+            "frame": null,
+            "start": null,
+            "end": "2025-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098726000003/gpc-20251231.htm",
+            "form": "10-K",
+            "filing_date": "2026-02-20",
+            "report_date": "2025-12-31",
+            "primary_document": "gpc-20251231.htm"
+          }
+        }
+      }
+    },
+    "short_term_borrowings": {
+      "label": "Short-term borrowings",
+      "tag": "ShortTermBorrowings",
+      "values": {
+        "2021": {
+          "value": 0,
+          "source": {
+            "tag": "ShortTermBorrowings",
+            "unit": "USD",
+            "accession": null,
+            "filed": null,
+            "fy": null,
+            "fp": null,
+            "frame": null,
+            "start": null,
+            "end": null,
+            "synthetic_zero": true,
+            "url": null
+          }
+        },
+        "2022": {
+          "value": 0,
+          "source": {
+            "tag": "ShortTermBorrowings",
+            "unit": "USD",
+            "accession": null,
+            "filed": null,
+            "fy": null,
+            "fp": null,
+            "frame": null,
+            "start": null,
+            "end": null,
+            "synthetic_zero": true,
+            "url": null
+          }
+        },
+        "2023": {
+          "value": 0,
+          "source": {
+            "tag": "ShortTermBorrowings",
+            "unit": "USD",
+            "accession": null,
+            "filed": null,
+            "fy": null,
+            "fp": null,
+            "frame": null,
+            "start": null,
+            "end": null,
+            "synthetic_zero": true,
+            "url": null
+          }
+        },
+        "2024": {
+          "value": 41705000,
+          "source": {
+            "tag": "ShortTermBorrowings",
+            "unit": "USD",
+            "accession": "0000040987-26-000003",
+            "filed": "2026-02-20",
+            "fy": 2025,
+            "fp": "FY",
+            "frame": "CY2024Q4I",
+            "start": null,
+            "end": "2024-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098726000003/gpc-20251231.htm",
+            "form": "10-K",
+            "filing_date": "2026-02-20",
+            "report_date": "2025-12-31",
+            "primary_document": "gpc-20251231.htm"
+          }
+        },
+        "2025": {
+          "value": 943540000,
+          "source": {
+            "tag": "ShortTermBorrowings",
+            "unit": "USD",
+            "accession": "0000040987-26-000003",
+            "filed": "2026-02-20",
+            "fy": 2025,
+            "fp": "FY",
+            "frame": null,
+            "start": null,
+            "end": "2025-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098726000003/gpc-20251231.htm",
+            "form": "10-K",
+            "filing_date": "2026-02-20",
+            "report_date": "2025-12-31",
+            "primary_document": "gpc-20251231.htm"
+          }
+        }
+      }
+    },
+    "commercial_paper": {
+      "label": "Commercial paper",
+      "tag": "CommercialPaper",
+      "values": {
+        "2021": {
+          "value": 0,
+          "source": {
+            "tag": "CommercialPaper",
+            "unit": "USD",
+            "accession": null,
+            "filed": null,
+            "fy": null,
+            "fp": null,
+            "frame": null,
+            "start": null,
+            "end": null,
+            "synthetic_zero": true,
+            "url": null
+          }
+        },
+        "2022": {
+          "value": 0,
+          "source": {
+            "tag": "CommercialPaper",
+            "unit": "USD",
+            "accession": null,
+            "filed": null,
+            "fy": null,
+            "fp": null,
+            "frame": null,
+            "start": null,
+            "end": null,
+            "synthetic_zero": true,
+            "url": null
+          }
+        },
+        "2023": {
+          "value": 0,
+          "source": {
+            "tag": "CommercialPaper",
+            "unit": "USD",
+            "accession": "0000040987-25-000026",
+            "filed": "2025-02-21",
+            "fy": 2024,
+            "fp": "FY",
+            "frame": "CY2023Q4I",
+            "start": null,
+            "end": "2023-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098725000026/gpc-20241231.htm",
+            "form": "10-K",
+            "filing_date": "2025-02-21",
+            "report_date": "2024-12-31",
+            "primary_document": "gpc-20241231.htm"
+          }
+        },
+        "2024": {
+          "value": 0,
+          "source": {
+            "tag": "CommercialPaper",
+            "unit": "USD",
+            "accession": "0000040987-26-000003",
+            "filed": "2026-02-20",
+            "fy": 2025,
+            "fp": "FY",
+            "frame": "CY2024Q4I",
+            "start": null,
+            "end": "2024-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098726000003/gpc-20251231.htm",
+            "form": "10-K",
+            "filing_date": "2026-02-20",
+            "report_date": "2025-12-31",
+            "primary_document": "gpc-20251231.htm"
+          }
+        },
+        "2025": {
+          "value": 343000000,
+          "source": {
+            "tag": "CommercialPaper",
+            "unit": "USD",
+            "accession": "0000040987-26-000003",
+            "filed": "2026-02-20",
+            "fy": 2025,
+            "fp": "FY",
+            "frame": null,
+            "start": null,
+            "end": "2025-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098726000003/gpc-20251231.htm",
+            "form": "10-K",
+            "filing_date": "2026-02-20",
+            "report_date": "2025-12-31",
+            "primary_document": "gpc-20251231.htm"
+          }
+        }
+      }
+    },
+    "long_term_debt_current": {
+      "label": "Current maturities of long-term debt",
+      "tag": "LongTermDebtCurrent",
+      "values": {
+        "2021": {
+          "value": 0,
+          "source": {
+            "tag": "LongTermDebtCurrent",
+            "unit": "USD",
+            "accession": "0000040987-23-000008",
+            "filed": "2023-02-23",
+            "fy": 2022,
+            "fp": "FY",
+            "frame": "CY2021Q4I",
+            "start": null,
+            "end": "2021-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098723000008/gpc-20221231.htm",
+            "form": "10-K",
+            "filing_date": "2023-02-23",
+            "report_date": "2022-12-31",
+            "primary_document": "gpc-20221231.htm"
+          }
+        },
+        "2022": {
+          "value": 252029000,
+          "source": {
+            "tag": "LongTermDebtCurrent",
+            "unit": "USD",
+            "accession": "0000040987-24-000024",
+            "filed": "2024-02-22",
+            "fy": 2023,
+            "fp": "FY",
+            "frame": "CY2022Q4I",
+            "start": null,
+            "end": "2022-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098724000024/gpc-20231231.htm",
+            "form": "10-K",
+            "filing_date": "2024-02-22",
+            "report_date": "2023-12-31",
+            "primary_document": "gpc-20231231.htm"
+          }
+        },
+        "2023": {
+          "value": 355298000,
+          "source": {
+            "tag": "LongTermDebtCurrent",
+            "unit": "USD",
+            "accession": "0000040987-25-000026",
+            "filed": "2025-02-21",
+            "fy": 2024,
+            "fp": "FY",
+            "frame": "CY2023Q4I",
+            "start": null,
+            "end": "2023-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098725000026/gpc-20241231.htm",
+            "form": "10-K",
+            "filing_date": "2025-02-21",
+            "report_date": "2024-12-31",
+            "primary_document": "gpc-20241231.htm"
+          }
+        },
+        "2024": {
+          "value": 500000000,
+          "source": {
+            "tag": "LongTermDebtCurrent",
+            "unit": "USD",
+            "accession": "0000040987-26-000003",
+            "filed": "2026-02-20",
+            "fy": 2025,
+            "fp": "FY",
+            "frame": "CY2024Q4I",
+            "start": null,
+            "end": "2024-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098726000003/gpc-20251231.htm",
+            "form": "10-K",
+            "filing_date": "2026-02-20",
+            "report_date": "2025-12-31",
+            "primary_document": "gpc-20251231.htm"
+          }
+        },
+        "2025": {
+          "value": 353788000,
+          "source": {
+            "tag": "LongTermDebtCurrent",
+            "unit": "USD",
+            "accession": "0000040987-26-000003",
+            "filed": "2026-02-20",
+            "fy": 2025,
+            "fp": "FY",
+            "frame": null,
+            "start": null,
+            "end": "2025-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098726000003/gpc-20251231.htm",
+            "form": "10-K",
+            "filing_date": "2026-02-20",
+            "report_date": "2025-12-31",
+            "primary_document": "gpc-20251231.htm"
+          }
+        }
+      }
+    },
+    "long_term_debt_noncurrent": {
+      "label": "Long-term debt, noncurrent",
+      "tag": "LongTermDebtNoncurrent",
+      "values": {
+        "2021": {
+          "value": 2409363000,
+          "source": {
+            "tag": "LongTermDebtNoncurrent",
+            "unit": "USD",
+            "accession": "0000040987-23-000008",
+            "filed": "2023-02-23",
+            "fy": 2022,
+            "fp": "FY",
+            "frame": "CY2021Q4I",
+            "start": null,
+            "end": "2021-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098723000008/gpc-20221231.htm",
+            "form": "10-K",
+            "filing_date": "2023-02-23",
+            "report_date": "2022-12-31",
+            "primary_document": "gpc-20221231.htm"
+          }
+        },
+        "2022": {
+          "value": 3076794000,
+          "source": {
+            "tag": "LongTermDebtNoncurrent",
+            "unit": "USD",
+            "accession": "0000040987-24-000024",
+            "filed": "2024-02-22",
+            "fy": 2023,
+            "fp": "FY",
+            "frame": "CY2022Q4I",
+            "start": null,
+            "end": "2022-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098724000024/gpc-20231231.htm",
+            "form": "10-K",
+            "filing_date": "2024-02-22",
+            "report_date": "2023-12-31",
+            "primary_document": "gpc-20231231.htm"
+          }
+        },
+        "2023": {
+          "value": 3550930000,
+          "source": {
+            "tag": "LongTermDebtNoncurrent",
+            "unit": "USD",
+            "accession": "0000040987-25-000026",
+            "filed": "2025-02-21",
+            "fy": 2024,
+            "fp": "FY",
+            "frame": "CY2023Q4I",
+            "start": null,
+            "end": "2023-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098725000026/gpc-20241231.htm",
+            "form": "10-K",
+            "filing_date": "2025-02-21",
+            "report_date": "2024-12-31",
+            "primary_document": "gpc-20241231.htm"
+          }
+        },
+        "2024": {
+          "value": 3742640000,
+          "source": {
+            "tag": "LongTermDebtNoncurrent",
+            "unit": "USD",
+            "accession": "0000040987-26-000003",
+            "filed": "2026-02-20",
+            "fy": 2025,
+            "fp": "FY",
+            "frame": "CY2024Q4I",
+            "start": null,
+            "end": "2024-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098726000003/gpc-20251231.htm",
+            "form": "10-K",
+            "filing_date": "2026-02-20",
+            "report_date": "2025-12-31",
+            "primary_document": "gpc-20251231.htm"
+          }
+        },
+        "2025": {
+          "value": 3498423000,
+          "source": {
+            "tag": "LongTermDebtNoncurrent",
+            "unit": "USD",
+            "accession": "0000040987-26-000003",
+            "filed": "2026-02-20",
+            "fy": 2025,
+            "fp": "FY",
+            "frame": null,
+            "start": null,
+            "end": "2025-12-31",
+            "synthetic_zero": false,
+            "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098726000003/gpc-20251231.htm",
+            "form": "10-K",
+            "filing_date": "2026-02-20",
+            "report_date": "2025-12-31",
+            "primary_document": "gpc-20251231.htm"
+          }
+        }
+      }
+    }
+  }
+}
